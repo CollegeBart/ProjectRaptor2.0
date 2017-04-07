@@ -376,3 +376,16 @@ LogInit: Object subsystem initialized
 [2017.04.07-19.39.31:588][ 85]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
 [2017.04.07-19.39.58:504][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.018
 [2017.04.07-19.39.58:506][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Van_M] ([1] browsable assets)...
+[2017.04.07-19.39.58:520][471]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Van_M.Van_M]
+[2017.04.07-19.39.58:520][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Van_M]
+[2017.04.07-19.39.58:537][471]LogSavePackage: Save=14.74ms
+[2017.04.07-19.39.58:537][471]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Van_M_Auto2922C8A914AAB5FA4A520A3AAAB172EAD.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Autosaves/Game/Van_M_Auto2.uasset'
+[2017.04.07-19.39.58:539][471]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Autosaves/Game/Van_M_Auto2.uasset
+[2017.04.07-19.39.58:539][471]LogFileHelpers: Auto-saving content packages took 0.033
+[2017.04.07-19.47.52:210][459]BlueprintLog: New page: Compile BP_MotionController
+[2017.04.07-19.47.56:041][659]LogSavePackage: Save=161.03ms
+[2017.04.07-19.47.56:042][659]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/BP_MotionController20A170584A61478DF164178BD99D6B7B.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2017.04.07-19.47.56:046][659]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2017.04.07-19.48.42:751][432]LogSavePackage: Save=149.70ms
+[2017.04.07-19.48.42:751][432]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/BP_MotionController21F20EF1464C70BB2C1F4194B51E6D6A.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2017.04.07-19.48.42:755][432]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
