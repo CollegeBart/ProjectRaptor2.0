@@ -349,3 +349,30 @@ LogInit: Object subsystem initialized
 [2017.04.07-19.30.04:945][486]LogSavePackage: Save=19.93ms
 [2017.04.07-19.30.04:946][486]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Conveyor_BPDF05EE5E4ED2E08A69792695EA355A06.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/Spawn_BP/Conveyor_BP.uasset'
 [2017.04.07-19.30.04:947][486]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/Spawn_BP/Conveyor_BP.uasset
+[2017.04.07-19.38.52:302][999]LogMaterial: Missing cached shader map for material Van_M, compiling. 
+[2017.04.07-19.38.52:400][999]LogMaterial: Missing cached shader map for material Van_M, compiling. 
+[2017.04.07-19.38.52:414][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.07-19.38.54:225][ 38]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.07-19.38.54:225][ 38]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.07-19.38.54:225][ 38]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.07-19.38.57:990][244]LogMaterial: Missing cached shader map for material Van_M, compiling. 
+[2017.04.07-19.38.58:001][244]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.07-19.38.58:828][287]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.07-19.38.58:828][287]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.07-19.38.58:828][287]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.07-19.39.05:172][665]LogMaterial: Missing cached shader map for material Van_M, compiling. 
+[2017.04.07-19.39.05:173][665]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Van_M for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.07-19.39.05:173][665]LogMaterial:Warning: 	SceneTexture expressions cannot be used in opaque materials
+[2017.04.07-19.39.05:173][665]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.07-19.39.05:175][665]MaterialEditorStats:Error: Error [SM5] SceneTexture expressions cannot be used in opaque materials
+[2017.04.07-19.39.20:671][593]LogMaterial: Missing cached shader map for material Van_M, compiling. 
+[2017.04.07-19.39.20:681][593]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.07-19.39.21:724][649]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.07-19.39.21:724][649]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.07-19.39.21:724][649]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.07-19.39.30:735][ 64]BlueprintLog: New page: Compile BP_MotionController
+[2017.04.07-19.39.31:582][ 85]LogSavePackage: Save=162.45ms
+[2017.04.07-19.39.31:582][ 85]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/BP_MotionController69D41DC94CCE43C6089B81A722850AB4.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2017.04.07-19.39.31:588][ 85]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2017.04.07-19.39.58:504][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.018
+[2017.04.07-19.39.58:506][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Van_M] ([1] browsable assets)...
