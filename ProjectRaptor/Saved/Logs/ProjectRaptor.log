@@ -401,3 +401,56 @@ LogInit: Object subsystem initialized
 [2017.04.07-20.08.06:730][636]LogFileHelpers: Auto-saving content packages took 0.051
 [2017.04.07-20.09.04:075][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
 [2017.04.07-20.09.12:272][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.04.07-20.19.10:365][571]LogSavePackage: Save=131.33ms
+[2017.04.07-20.19.10:365][571]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/MotionControllerMap_Auto44B9E3C2642EBD0C862021F854E4E9ED1.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2017.04.07-20.19.10:368][571]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap
+[2017.04.07-20.19.10:370][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.196
+[2017.04.07-20.19.10:370][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.196
+[2017.04.07-20.19.10:372][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Spawn_BP/Conveyor_BP] ([1] browsable assets)...
+[2017.04.07-20.19.10:372][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spawn_BP/Conveyor_BP]
+[2017.04.07-20.19.10:427][571]LogSavePackage: Save=22.78ms
+[2017.04.07-20.19.10:427][571]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Conveyor_BP_Auto483E560FD41612D736413089C2D7BDF8E.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Autosaves/Game/Spawn_BP/Conveyor_BP_Auto4.uasset'
+[2017.04.07-20.19.10:429][571]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/tempProjectRaptor/ProjectRaptor2.0/ProjectRaptor/Saved/Autosaves/Game/Spawn_BP/Conveyor_BP_Auto4.uasset
+[2017.04.07-20.19.10:429][571]LogFileHelpers: Auto-saving content packages took 0.058
+[2017.04.07-20.19.14:516][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-20.19.14:516][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-20.19.14:517][810]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-20.19.14:517][810]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-20.19.14:517][810]LogHMD: New ovr session is created
+[2017.04.07-20.19.14:518][810]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-20.19.14:518][810]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 12:19:14 PM)
+[2017.04.07-20.19.14:518][810]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-20.19.14:524][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006267s)
+[2017.04.07-20.19.14:525][810]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-20.19.14:525][810]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2017.04.07-20.19.14:526][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007585s)
+[2017.04.07-20.19.14:546][810]LogHMD: Vision Tracking Acquired
+[2017.04.07-20.19.14:576][810]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.07-20.19.14:589][810]LogInit: FAudioDevice initialized.
+[2017.04.07-20.19.14:710][810]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-20.19.14:714][810]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.04.07-16.19.14
+[2017.04.07-20.19.14:715][810]LogWorld: Bringing up level for play took: 0.002448
+[2017.04.07-20.19.14:757][810]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.04.07-20.19.14:782][810]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.359
+[2017.04.07-20.19.14:783][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-20.19.14:805][810]LogHMD: Reallocation of eye buffer was requested
+[2017.04.07-20.19.14:808][810]LogHMD: Allocated a new swap texture set (size 2720 x 1600, mipcount = 1), 0x0000020470995800
+[2017.04.07-20.19.14:853][810]LogHMD: Allocated a new mirror texture (size 1080 x 720)
+[2017.04.07-20.19.14:853][810]LogRenderer: Reallocating scene render targets to support 2720x1600 NumSamples 1 (Frame:107695).
+[2017.04.07-20.19.17:002][947]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(6505call)
+[2017.04.07-20.19.44:761][198]OCULUS: Error: Prediction interval too high: 0.102291 s, clamping at 0.100000 s
+[2017.04.07-20.19.53:003][546]OCULUS: Error: Prediction interval too high: 0.100705 s, clamping at 0.100000 s
+[2017.04.07-20.19.56:947][688]OCULUS: Error: Prediction interval too high: 0.104653 s, clamping at 0.100000 s
+[2017.04.07-20.20.00:416][819]OCULUS: Error: Prediction interval too high: 0.106533 s, clamping at 0.100000 s
+[2017.04.07-20.20.03:744][922]OCULUS: Error: Prediction interval too high: 0.100021 s, clamping at 0.100000 s
+[2017.04.07-20.20.06:877][  2]OCULUS: Error: Prediction interval too high: 0.100079 s, clamping at 0.100000 s
+[2017.04.07-20.20.09:888][ 75]OCULUS: Error: Prediction interval too high: 0.103018 s, clamping at 0.100000 s
+[2017.04.07-20.20.16:075][222]OCULUS: Error: Prediction interval too high: 0.106269 s, clamping at 0.100000 s
+[2017.04.07-20.20.19:822][306]OCULUS: Error: Prediction interval too high: 0.100572 s, clamping at 0.100000 s
+[2017.04.07-20.20.23:022][378]OCULUS: Error: Prediction interval too high: 0.100633 s, clamping at 0.100000 s
+[2017.04.07-20.20.26:038][451]OCULUS: Error: Prediction interval too high: 0.104978 s, clamping at 0.100000 s
+[2017.04.07-20.20.27:975][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-20.20.28:022][494]LogHMD: Destroying ovr session
+[2017.04.07-20.20.28:023][494]LogHMD: Freeing textureSet 0x0000020470995800
+[2017.04.07-20.20.28:030][494]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(6505call)
+[2017.04.07-20.20.28:194][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
