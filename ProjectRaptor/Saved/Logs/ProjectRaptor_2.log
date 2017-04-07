@@ -1,0 +1,1299 @@
+﻿Log file open, 04/07/17 13:02:52
+LogInit:Display: Running engine for game: ProjectRaptor
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1690134541) SRandInit(1690134541).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.087174
+LogPluginManager: Loaded Plugin Paper2D, From D:/Software/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Software/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Software/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Software/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Software/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From D:/Software/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Software/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Software/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Software/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Software/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Software/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Software/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Software/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Software/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Software/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Software/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Software/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Software/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Software/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Software/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Software/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Software/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Software/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Software/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Software/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Software/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+OCULUS: Info: [CAPI] LibOVR module is located at C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll
+OCULUS: Debug: Connected to the server running version (prod = 1).1.13.0(build = 361842) feature version = 0. Client runs version (prod = 1).1.13.0(build = 361842) feature version = 0
+OCULUS: Debug: [HMDState] Using default profile default
+OCULUS: Info: IAD changed to 59.0mm
+OCULUS: Debug: Creating factory
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: D:/Software/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.07-17.02.53:079][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.07-17.02.53:079][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.07-17.02.53:092][  0]LogInit: Computer: MSI
+[2017.04.07-17.02.53:092][  0]LogInit: User: maske
+[2017.04.07-17.02.53:092][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.04.07-17.02.53:092][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2017.04.07-17.02.53:092][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.04.07-17.02.53:092][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.07-17.02.53:092][  0]LogMemory: Process Physical Memory: 268.84 MB used, 268.84 MB peak
+[2017.04.07-17.02.53:092][  0]LogMemory: Process Virtual Memory: 266.08 MB used, 266.08 MB peak
+[2017.04.07-17.02.53:092][  0]LogMemory: Physical Memory: 7275.01 MB used,  8984.87 MB free, 16259.88 MB total
+[2017.04.07-17.02.53:092][  0]LogMemory: Virtual Memory: 717.82 MB used,  8984.87 MB free, 134217728.00 MB total
+[2017.04.07-17.02.53:283][  0]LogTextLocalizationManager: No specific translations for ('en-CA') exist, so ('en') translations will be used.
+[2017.04.07-17.02.53:925][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.07-17.02.53:957][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.04.07-17.02.53:957][  0]LogD3D11RHI:       6084/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.04.07-17.02.53:962][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.04.07-17.02.53:962][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.04.07-17.02.53:964][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.07-17.02.53:964][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.07-17.02.53:964][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.07-17.02.53:969][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.07-17.02.53:969][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.07-17.02.53:969][  0]LogWindows: EnumDisplayDevices:
+[2017.04.07-17.02.53:970][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.04.07-17.02.53:970][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.04.07-17.02.53:970][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.04.07-17.02.53:970][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.04.07-17.02.53:970][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.04.07-17.02.53:971][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.04.07-17.02.53:971][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.04.07-17.02.53:971][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.04.07-17.02.53:971][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.04.07-17.02.53:971][  0]LogD3D11RHI:   Driver Version: 378.92 (internal:21.21.13.7892, unified:378.92)
+[2017.04.07-17.02.53:971][  0]LogD3D11RHI:      Driver Date: 3-16-2017
+[2017.04.07-17.02.53:971][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.07-17.02.53:992][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.07-17.02.54:004][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.04.07-17.02.54:005][  0]LogShaderCompilers: Guid format shader working directory is -53 characters bigger than the processId version (C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Intermediate/Shaders/WorkingDirectory/4816/).
+[2017.04.07-17.02.54:005][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maske/AppData/Local/Temp/UnrealShaderWorkingDir/12961D91466B1DC2D197CCBA25DCACF3/'.
+[2017.04.07-17.02.54:005][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.07-17.02.55:065][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.07-17.02.55:112][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.07-17.02.55:159][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.07-17.02.55:204][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.07-17.02.55:250][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.07-17.02.55:298][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.07-17.02.55:343][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.07-17.02.55:391][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.07-17.02.55:425][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.07-17.02.55:470][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.07-17.02.55:521][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.07-17.02.55:566][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.07-17.02.55:611][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.07-17.02.55:657][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.07-17.02.55:701][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.07-17.02.55:792][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.07-17.02.55:792][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.07-17.02.55:821][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.07-17.02.55:893][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.07-17.02.55:924][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.07-17.02.55:971][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.07-17.02.56:017][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.07-17.02.56:061][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.07-17.02.56:107][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.07-17.02.56:107][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.07-17.02.56:403][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.07-17.02.56:459][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/maske/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.07-17.02.56:459][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/maske/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.07-17.02.56:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.07-17.02.56:460][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.07-17.02.56:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.07-17.02.56:460][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.07-17.02.56:477][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.07-17.02.56:490][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maske/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.07-17.02.56:684][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.07-17.02.56:687][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.07-17.02.56:879][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.07-17.02.56:925][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.07-17.02.56:961][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.07-17.02.56:961][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.07-17.02.56:961][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.07-17.02.57:450][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: projectraptor, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3772060721
+[2017.04.07-17.02.57:501][  0]LogAssetRegistry: FAssetRegistry took 0.0216 seconds to start up
+[2017.04.07-17.02.57:550][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.031804 seconds
+[2017.04.07-17.02.57:556][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.07-17.02.57:556][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.07-17.02.57:556][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.07-17.02.57:605][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.07-17.02.58:147][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.07-17.02.58:147][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.07-17.02.58:147][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.07-17.02.58:891][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2017.04.07-17.02.58:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.07-17.02.58:943][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.07-17.02.59:201][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.07-17.02.59:500][  0]SourceControl: Info Source control is disabled
+[2017.04.07-17.02.59:533][  0]SourceControl: Info Source control is disabled
+[2017.04.07-17.02.59:565][  0]SourceControl: Info Source control is disabled
+[2017.04.07-17.02.59:599][  0]SourceControl: Info Source control is disabled
+[2017.04.07-17.03.00:586][  0]LogEngine: Initializing Engine...
+[2017.04.07-17.03.00:586][  0]LogHMD: Oculus plugin initialized. Version: 4.14.3-3249277+++UE4+Release-4.14, LibOVR: 1.13.0, SDK: 1.8.0, built Jan  6 2017, 10:50:26
+[2017.04.07-17.03.00:715][  0]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.03.00:715][  0]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.03.00:808][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.07-17.03.00:838][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.03.00:894][  0]LogInit: FAudioDevice initialized.
+[2017.04.07-17.03.00:919][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/maske/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.07-17.03.00:928][  0]LogInit: Texture streaming: Enabled
+[2017.04.07-17.03.01:070][  0]LogInit: Transaction tracking system initialized
+[2017.04.07-17.03.01:328][  0]BlueprintLog: New page: Editor Load
+[2017.04.07-17.03.02:000][  0]LocalizationService: Info Localization service is disabled
+[2017.04.07-17.03.02:486][  0]LogConsoleResponse:Display: 
+[2017.04.07-17.03.02:615][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.07-17.03.02:615][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.07-17.03.03:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/' took 0.01s
+[2017.04.07-17.03.03:310][  0]SourceControl: Info Source control is disabled
+[2017.04.07-17.03.03:310][  0]LightingResults: New page: Lighting Build
+[2017.04.07-17.03.03:340][  0]MapCheck: New page: Map Check
+[2017.04.07-17.03.03:340][  0]LightingResults: New page: Lighting Build
+[2017.04.07-17.03.03:860][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  K2Node_GetInputAxisValue_95
+[2017.04.07-17.03.03:860][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  K2Node_GetInputAxisValue_94
+[2017.04.07-17.03.03:860][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  K2Node_GetInputAxisValue_15
+[2017.04.07-17.03.03:860][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  K2Node_GetInputAxisValue_14
+[2017.04.07-17.03.03:868][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning [0012.11] Compile of MotionControllerPawn successful, but with 4 Warning(s) [in 15 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.04.07-17.03.03:868][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning [0012.11] Compile of MotionControllerPawn successful, but with 5 Warning(s) [in 0 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.04.07-17.03.03:868][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning [0012.11] Compile of MotionControllerPawn successful, but with 6 Warning(s) [in 0 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.04.07-17.03.03:879][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  K2Node_GetInputAxisValue_95
+[2017.04.07-17.03.03:879][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  K2Node_GetInputAxisValue_94
+[2017.04.07-17.03.03:879][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  K2Node_GetInputAxisValue_15
+[2017.04.07-17.03.03:879][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  K2Node_GetInputAxisValue_14
+[2017.04.07-17.03.03:886][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning [0012.13] Compile of MotionControllerPawn successful, but with 4 Warning(s) [in 14 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.04.07-17.03.03:886][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning [0012.13] Compile of MotionControllerPawn successful, but with 5 Warning(s) [in 0 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.04.07-17.03.03:886][  0]LogBlueprint:Warning: [Compiler MotionControllerPawn] Warning [0012.13] Compile of MotionControllerPawn successful, but with 6 Warning(s) [in 0 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2017.04.07-17.03.04:213][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.03.04:230][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.07-17.03.04:231][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.07-17.03.04:267][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.228ms to complete.
+[2017.04.07-17.03.04:267][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.957
+[2017.04.07-17.03.04:334][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.07-17.03.04:410][  0]LogCollectionManager: Loaded 0 collections in 0.000817 seconds
+[2017.04.07-17.03.04:480][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Collections/' took 0.01s
+[2017.04.07-17.03.04:480][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Developers/maske/Collections/' took 0.01s
+[2017.04.07-17.03.04:480][  0]LogFileCache: Scanning file cache for directory 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Collections/' took 0.01s
+[2017.04.07-17.03.04:480][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.07-17.03.04:489][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2204 classes and 434 folders.
+[2017.04.07-17.03.04:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.07-17.03.04:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.07-17.03.04:519][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.04.07-17.03.04:565][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.04.07-17.03.04:598][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.04.07-17.03.04:630][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.04.07-17.03.04:705][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.07-17.03.04:712][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.07-17.03.04:769][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.04.07-17.03.04:769][  0]LogLoad: (Engine Initialization) Total time: 13.01 seconds
+[2017.04.07-17.03.04:769][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.31 seconds
+[2017.04.07-17.03.04:769][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.07-17.03.04:769][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.07-17.03.04:787][  0]LogOcInput: OculusInput pre-init called
+[2017.04.07-17.03.04:802][  0]LogOcInput: OculusInput is initialized. Init status 0. Runtime version: 1.13.0
+[2017.04.07-17.03.04:823][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.07-17.03.04:953][  1]LogAssetRegistry: Asset discovery search completed in 7.4740 seconds
+[2017.04.07-17.03.04:953][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.04.07-17.03.04:953][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2017.04.07-17.03.04:980][  2]LogRenderer: Reallocating scene render targets to support 764x440 NumSamples 1 (Frame:2).
+[2017.04.07-17.06.23:926][149]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2017.04.07-17.07.41:596][111]LogAssetTools:Warning: Failed to import 'F:\VirtualRaptors\fuckit\2,0\Poof_BP.uasset'. Unknown extension 'uasset'.
+[2017.04.07-17.07.41:610][111]LogAssetTools:Warning: Failed to import 'F:\VirtualRaptors\fuckit\2,0\Scoring.uasset'. Unknown extension 'uasset'.
+[2017.04.07-17.07.41:624][111]LogAssetTools:Warning: Failed to import 'F:\VirtualRaptors\fuckit\2,0\Spawn_Object_BP.uasset'. Unknown extension 'uasset'.
+[2017.04.07-17.07.41:637][111]LogAssetTools:Warning: Failed to import 'F:\VirtualRaptors\fuckit\2,0\MySaveScore.uasset'. Unknown extension 'uasset'.
+[2017.04.07-17.08.55:608][717]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks3)
+[2017.04.07-17.08.58:007][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.04.07-17.09.17:923][769]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 111 classes and 0 folders.
+[2017.04.07-17.13.06:081][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.13.06:081][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.13.06:083][451]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.13.06:083][451]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.13.06:083][451]LogHMD: New ovr session is created
+[2017.04.07-17.13.06:083][451]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.13.06:084][451]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:13:06 AM)
+[2017.04.07-17.13.06:084][451]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.13.06:090][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006459s)
+[2017.04.07-17.13.06:091][451]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.13.06:091][451]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2017.04.07-17.13.06:091][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007415s)
+[2017.04.07-17.13.06:157][451]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.13.06:217][451]LogInit: FAudioDevice initialized.
+[2017.04.07-17.13.06:286][451]LogLoad: Game class is 'VR_GameMode_BP_C'
+[2017.04.07-17.13.06:289][451]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.13.06
+[2017.04.07-17.13.06:290][451]LogWorld: Bringing up level for play took: 0.002096
+[2017.04.07-17.13.06:322][451]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.04.07-17.13.06:326][451]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.099
+[2017.04.07-17.13.06:326][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.13.09:028][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.13.09:030][611]LogHMD: Destroying ovr session
+[2017.04.07-17.13.09:078][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.13.25:900][508]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.07-17.13.35:993][111]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.07-17.13.39:443][317]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.13.39:471][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.13.39:472][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.13.39:472][317]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.13.39:472][317]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.13.39:472][317]LogHMD: New ovr session is created
+[2017.04.07-17.13.39:473][317]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.13.39:473][317]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:13:39 AM)
+[2017.04.07-17.13.39:473][317]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.13.39:478][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005615s)
+[2017.04.07-17.13.39:479][317]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.13.39:479][317]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2017.04.07-17.13.39:479][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006680s)
+[2017.04.07-17.13.39:520][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.13.39:576][317]LogInit: FAudioDevice initialized.
+[2017.04.07-17.13.39:607][317]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.13.39:610][317]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.13.39
+[2017.04.07-17.13.39:610][317]LogWorld: Bringing up level for play took: 0.001736
+[2017.04.07-17.13.39:896][317]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.529
+[2017.04.07-17.13.39:896][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.14.09:160][971]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.09:285][977]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.09:987][ 19]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.11:685][115]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.12:067][138]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.12:946][184]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.13:066][191]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.15:066][302]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.15:083][303]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.15:183][309]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.15:335][318]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.15:986][357]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.16:237][372]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.16:320][377]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.16:571][392]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.16:811][406]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.16:828][407]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.18:214][479]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.18:230][480]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.18:485][495]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.19:094][531]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.19:303][543]LogHMD: Lost Vision Tracking
+[2017.04.07-17.14.24:581][818]LogRenderer: Reallocating scene render targets to support 768x440 NumSamples 1 (Frame:31743).
+[2017.04.07-17.14.24:650][818]LogRenderer: Reallocating scene render targets to support 816x440 NumSamples 1 (Frame:31744).
+[2017.04.07-17.14.24:718][818]LogRenderer: Reallocating scene render targets to support 824x440 NumSamples 1 (Frame:31745).
+[2017.04.07-17.14.24:804][818]LogRenderer: Reallocating scene render targets to support 832x440 NumSamples 1 (Frame:31746).
+[2017.04.07-17.14.24:899][818]LogRenderer: Reallocating scene render targets to support 848x440 NumSamples 1 (Frame:31747).
+[2017.04.07-17.14.24:978][818]LogRenderer: Reallocating scene render targets to support 860x440 NumSamples 1 (Frame:31748).
+[2017.04.07-17.14.25:572][818]LogRenderer: Reallocating scene render targets to support 872x440 NumSamples 1 (Frame:31750).
+[2017.04.07-17.14.25:649][818]LogRenderer: Reallocating scene render targets to support 884x440 NumSamples 1 (Frame:31751).
+[2017.04.07-17.14.25:716][818]LogRenderer: Reallocating scene render targets to support 888x440 NumSamples 1 (Frame:31752).
+[2017.04.07-17.14.25:786][818]LogRenderer: Reallocating scene render targets to support 892x440 NumSamples 1 (Frame:31753).
+[2017.04.07-17.14.25:866][818]LogRenderer: Reallocating scene render targets to support 908x440 NumSamples 1 (Frame:31754).
+[2017.04.07-17.14.25:953][818]LogRenderer: Reallocating scene render targets to support 912x440 NumSamples 1 (Frame:31755).
+[2017.04.07-17.14.27:262][876]LogHMD: Vision Tracking Acquired
+[2017.04.07-17.14.27:263][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.14.27:268][876]LogHMD: Destroying ovr session
+[2017.04.07-17.14.27:317][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.14.37:467][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.14.37:467][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.14.37:468][478]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.14.37:468][478]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.14.37:468][478]LogHMD: New ovr session is created
+[2017.04.07-17.14.37:468][478]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.14.37:468][478]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:14:37 AM)
+[2017.04.07-17.14.37:468][478]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.14.37:475][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007030s)
+[2017.04.07-17.14.37:476][478]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.14.37:476][478]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2017.04.07-17.14.37:477][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008659s)
+[2017.04.07-17.14.37:524][478]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.07-17.14.37:538][478]LogInit: FAudioDevice initialized.
+[2017.04.07-17.14.37:636][478]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.14.37:639][478]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.04.07-13.14.37
+[2017.04.07-17.14.37:639][478]LogWorld: Bringing up level for play took: 0.002220
+[2017.04.07-17.14.37:664][478]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.761
+[2017.04.07-17.14.37:664][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.14.37:702][478]LogHMD: Reallocation of eye buffer was requested
+[2017.04.07-17.14.37:705][478]LogHMD: Allocated a new swap texture set (size 2720 x 1600, mipcount = 1), 0x0000023B0FE5A8A0
+[2017.04.07-17.14.37:750][478]LogHMD: Allocated a new mirror texture (size 1080 x 720)
+[2017.04.07-17.14.37:750][478]LogRenderer: Reallocating scene render targets to support 2720x1600 NumSamples 1 (Frame:31838).
+[2017.04.07-17.14.39:898][608]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(230716ll)
+[2017.04.07-17.14.40:764][683]OCULUS: Error: Prediction interval too high: 0.101146 s, clamping at 0.100000 s
+[2017.04.07-17.14.54:726][294]OCULUS: Error: Prediction interval too high: 0.114624 s, clamping at 0.100000 s
+[2017.04.07-17.14.57:812][430]OCULUS: Error: Prediction interval too high: 0.101497 s, clamping at 0.100000 s
+[2017.04.07-17.15.10:413][996]OCULUS: Error: Prediction interval too high: 0.107231 s, clamping at 0.100000 s
+[2017.04.07-17.15.15:280][214]OCULUS: Error: Prediction interval too high: 0.101734 s, clamping at 0.100000 s
+[2017.04.07-17.15.18:464][356]OCULUS: Error: Prediction interval too high: 0.102617 s, clamping at 0.100000 s
+[2017.04.07-17.15.22:700][536]OCULUS: Error: Prediction interval too high: 0.102337 s, clamping at 0.100000 s
+[2017.04.07-17.15.26:688][683]OCULUS: Error: Prediction interval too high: 0.109071 s, clamping at 0.100000 s
+[2017.04.07-17.15.29:777][791]OCULUS: Error: Prediction interval too high: 0.105729 s, clamping at 0.100000 s
+[2017.04.07-17.15.32:079][877]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.15.32:080][877]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.15.32:860][905]OCULUS: Error: Prediction interval too high: 0.103793 s, clamping at 0.100000 s
+[2017.04.07-17.15.36:510][ 35]OCULUS: Error: Prediction interval too high: 0.100737 s, clamping at 0.100000 s
+[2017.04.07-17.15.40:575][145]OCULUS: Error: Prediction interval too high: 0.101286 s, clamping at 0.100000 s
+[2017.04.07-17.15.43:601][237]OCULUS: Error: Prediction interval too high: 0.113680 s, clamping at 0.100000 s
+[2017.04.07-17.15.48:643][372]OCULUS: Error: Prediction interval too high: 0.102322 s, clamping at 0.100000 s
+[2017.04.07-17.15.54:812][534]OCULUS: Error: Prediction interval too high: 0.101523 s, clamping at 0.100000 s
+[2017.04.07-17.15.59:108][631]OCULUS: Error: Prediction interval too high: 0.104716 s, clamping at 0.100000 s
+[2017.04.07-17.16.02:122][699]OCULUS: Error: Prediction interval too high: 0.103007 s, clamping at 0.100000 s
+[2017.04.07-17.16.03:060][719]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.16.03:060][719]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.16.05:189][768]OCULUS: Error: Prediction interval too high: 0.103806 s, clamping at 0.100000 s
+[2017.04.07-17.16.09:638][867]OCULUS: Error: Prediction interval too high: 0.100355 s, clamping at 0.100000 s
+[2017.04.07-17.16.12:676][931]OCULUS: Error: Prediction interval too high: 0.101985 s, clamping at 0.100000 s
+[2017.04.07-17.16.15:697][999]OCULUS: Error: Prediction interval too high: 0.105741 s, clamping at 0.100000 s
+[2017.04.07-17.16.18:727][ 61]OCULUS: Error: Prediction interval too high: 0.101382 s, clamping at 0.100000 s
+[2017.04.07-17.16.20:637][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.16.20:712][103]LogHMD: Destroying ovr session
+[2017.04.07-17.16.20:712][103]LogHMD: Freeing textureSet 0x0000023B0FE5A8A0
+[2017.04.07-17.16.20:722][103]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(230716ll)
+[2017.04.07-17.16.20:860][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.16.24:042][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.16.24:043][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.16.24:045][288]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.16.24:045][288]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.16.24:045][288]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(1d05fcll)
+[2017.04.07-17.16.24:045][288]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(1d05fcll)
+[2017.04.07-17.16.24:045][288]LogHMD: New ovr session is created
+[2017.04.07-17.16.24:045][288]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.16.24:045][288]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:16:24 AM)
+[2017.04.07-17.16.24:045][288]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.16.24:052][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006144s)
+[2017.04.07-17.16.24:052][288]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.16.24:052][288]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2017.04.07-17.16.24:053][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007201s)
+[2017.04.07-17.16.24:100][288]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.16.24:157][288]LogInit: FAudioDevice initialized.
+[2017.04.07-17.16.24:190][288]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.16.24:193][288]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.16.24
+[2017.04.07-17.16.24:193][288]LogWorld: Bringing up level for play took: 0.001799
+[2017.04.07-17.16.24:197][288]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.227
+[2017.04.07-17.16.24:198][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.16.30:348][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.04.07-17.16.31:189][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.04.07-17.16.31:498][665]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.16.38:170][948]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.16.38:170][948]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.16.45:347][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.16.45:387][272]LogHMD: Destroying ovr session
+[2017.04.07-17.16.45:388][272]OCULUS: Info: [HMDState] Requested to SetForegroundWindow(1d05fcll)
+[2017.04.07-17.16.45:421][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.19.17:266][679]BlueprintLog: New page: Compile MySaveScore
+[2017.04.07-17.19.17:943][689]LogSavePackage: Save=6.49ms
+[2017.04.07-17.19.17:943][689]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MySaveScore8209DA954D1333562915FC8DF91FA0E4.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Spawn_BP/MySaveScore.uasset'
+[2017.04.07-17.19.17:947][689]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Spawn_BP/MySaveScore.uasset
+[2017.04.07-17.19.19:499][753]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.19.19:536][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.19.19:536][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.19.19:537][753]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.19.19:537][753]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.19.19:537][753]LogHMD: New ovr session is created
+[2017.04.07-17.19.19:537][753]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.19.19:538][753]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:19:19 AM)
+[2017.04.07-17.19.19:538][753]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.19.19:543][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005439s)
+[2017.04.07-17.19.19:543][753]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.19.19:544][753]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2017.04.07-17.19.19:544][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006178s)
+[2017.04.07-17.19.19:565][753]LogHMD: Lost Vision Tracking
+[2017.04.07-17.19.19:590][753]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.19.19:650][753]LogInit: FAudioDevice initialized.
+[2017.04.07-17.19.19:679][753]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.19.19:683][753]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.19.19
+[2017.04.07-17.19.19:683][753]LogWorld: Bringing up level for play took: 0.001916
+[2017.04.07-17.19.19:687][753]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.738
+[2017.04.07-17.19.19:687][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.19.21:776][875]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.19.21:778][875]LogHMD: Destroying ovr session
+[2017.04.07-17.19.21:814][875]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.19.25:983][ 95]BlueprintLog: New page: Compile MySaveScore
+[2017.04.07-17.19.26:851][135]LogSavePackage: Save=5.71ms
+[2017.04.07-17.19.26:852][135]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MySaveScore0B546C6F4C5150AA96D4EF952A84DFF3.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Spawn_BP/MySaveScore.uasset'
+[2017.04.07-17.19.26:855][135]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Spawn_BP/MySaveScore.uasset
+[2017.04.07-17.19.35:859][559]LogEditorViewport: Clicking on Actor (LMB): StorageBox_BP_C (StorageBox_BP)
+[2017.04.07-17.20.31:758][493]LogSavePackage: Save=126.50ms
+[2017.04.07-17.20.31:758][493]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MotionControllerMap_Auto1791ABEFC415A4263555A5BB9FE404590.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2017.04.07-17.20.31:760][493]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2017.04.07-17.20.31:769][493]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.181
+[2017.04.07-17.20.31:769][493]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2017.04.07-17.20.31:771][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/Menu_Widget] ([1] browsable assets)...
+[2017.04.07-17.20.31:771][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Menu_Widget]
+[2017.04.07-17.20.31:834][493]LogSavePackage: Save=38.63ms
+[2017.04.07-17.20.31:834][493]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Menu_Widget_Auto12D9E5B7C46EC1CB107ADB2B63176512A.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/Menu/Menu_Widget_Auto1.uasset'
+[2017.04.07-17.20.31:836][493]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/Menu/Menu_Widget_Auto1.uasset
+[2017.04.07-17.20.31:836][493]LogFileHelpers: Auto-saving content packages took 0.066
+[2017.04.07-17.22.41:414][947]BlueprintLog: New page: Compile StorageBox_BP
+[2017.04.07-17.22.42:472][961]LogSavePackage: Save=56.70ms
+[2017.04.07-17.22.42:472][961]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BPF27EC476467126CE79F934A7C1C33983.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.22.42:473][961]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.22.42:974][961]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.22.42:974][961]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.22.42:975][961]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.22.51:616][961]EditorErrors: New page: Save Output
+[2017.04.07-17.22.51:616][961]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.00:331][276]LogSavePackage: Save=46.97ms
+[2017.04.07-17.23.00:331][276]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BPE76D9F2F438A76C1A9A04F92F0E23D56.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.00:331][276]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.23.00:833][276]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.23.00:833][276]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.00:834][276]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.23.10:986][276]EditorErrors: New page: Save Output
+[2017.04.07-17.23.10:986][276]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.33:629][ 18]BlueprintLog: New page: Compile StorageBox_BP
+[2017.04.07-17.23.35:005][ 72]LogSavePackage: Save=53.96ms
+[2017.04.07-17.23.35:005][ 72]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BPE7D5756C42DFA0DDC981488BE3BF358D.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.35:005][ 72]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.23.35:506][ 72]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.23.35:506][ 72]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.35:508][ 72]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.23.37:013][ 72]LogSavePackage: Save=50.13ms
+[2017.04.07-17.23.37:013][ 72]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP127CC9444984F2A60BA4BC86F98A804A.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.37:013][ 72]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.23.37:514][ 72]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.23.37:514][ 72]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.37:515][ 72]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.23.38:368][ 72]LogSavePackage: Save=49.19ms
+[2017.04.07-17.23.38:368][ 72]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BPF51359564302EF77636094B51BCFF992.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.38:368][ 72]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.23.38:869][ 72]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.23.38:869][ 72]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.38:870][ 72]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.23.39:996][ 72]EditorErrors: New page: Save Output
+[2017.04.07-17.23.39:996][ 72]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.39:996][ 72]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.39:996][ 72]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.45:882][306]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.23.45:948][306]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.23.57:845][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Widget" FILE="C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Menu/Menu_Widget.uasset" SILENT=true
+[2017.04.07-17.23.57:908][949]LogSavePackage: Save=37.91ms
+[2017.04.07-17.23.57:909][949]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Menu_Widget1EAEA78448F23E1A4C01B0B43A281E1A.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Menu/Menu_Widget.uasset'
+[2017.04.07-17.23.57:915][949]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Menu/Menu_Widget.uasset
+[2017.04.07-17.23.57:989][949]LogSavePackage: Save=46.17ms
+[2017.04.07-17.23.57:989][949]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP140B8E524A19D4F31A340CB8EB0E8E2D.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.57:989][949]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.23.58:490][949]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.23.58:490][949]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.23.58:492][949]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.24.05:764][949]LogSavePackage: Save=113.81ms
+[2017.04.07-17.24.05:764][949]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MotionControllerMap402980E54F287479DC73C7A249D713A4.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.04.07-17.24.05:769][949]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.04.07-17.24.05:801][949]LogFileHelpers: Saving map 'MotionControllerMap' took 0.232
+[2017.04.07-17.24.05:803][949]EditorErrors: New page: Save Output
+[2017.04.07-17.24.05:803][949]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.25.26:223][345]LogMetaData: Removing '/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_Bp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/RaptorBlueprints/newStorageBox.PackageMetaData'
+[2017.04.07-17.25.26:223][345]LogMetaData: Removing '/Game/RaptorBlueprints/newStorageBox_Bp.SKEL_newStorageBox_Bp_C' ref from Metadata '/Game/RaptorBlueprints/newStorageBox.PackageMetaData'
+[2017.04.07-17.25.26:223][345]LogMetaData: Removing '/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_Bp_C' ref from Metadata '/Game/RaptorBlueprints/newStorageBox.PackageMetaData'
+[2017.04.07-17.25.26:223][345]LogMetaData: Removing '/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_Bp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RaptorBlueprints/newStorageBox.PackageMetaData'
+[2017.04.07-17.25.26:223][345]LogMetaData: Removing '/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_Bp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/RaptorBlueprints/newStorageBox.PackageMetaData'
+[2017.04.07-17.25.26:223][345]LogMetaData: Removing '/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_Bp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/RaptorBlueprints/newStorageBox.PackageMetaData'
+[2017.04.07-17.25.26:254][345]LogSavePackage: Save=10.02ms
+[2017.04.07-17.25.26:254][345]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_BpEF80DBF344A7A1D3B519158CFB0DCD26.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.25.26:257][345]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.25.29:738][525]LogSavePackage: Save=9.61ms
+[2017.04.07-17.25.29:738][525]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_BpB92CB68D4E1A5CC23C248CB43388AE80.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.25.29:742][525]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:210][633]LogBlueprint:Warning: [newStorageBox_BP] 'ItemCounter' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:211][633]LogBlueprint:Warning: [newStorageBox_BP] 'ElapsedTime' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:211][633]LogBlueprint:Warning: [newStorageBox_BP] 'ElapsedTime' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:211][633]LogBlueprint:Warning: [newStorageBox_BP] 'ElapsedTime' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:212][633]LogBlueprint:Warning: [newStorageBox_BP] 'PointLight' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:212][633]LogBlueprint:Warning: [newStorageBox_BP] 'PointLight' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:212][633]LogBlueprint:Warning: [newStorageBox_BP] 'Save' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:212][633]LogBlueprint:Warning: [newStorageBox_BP] 'Save' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:212][633]LogBlueprint:Warning: [newStorageBox_BP] 'CurrentScore' variable not found. Base class was probably changed.
+[2017.04.07-17.25.50:212][633]LogBlueprint:Warning: [newStorageBox_BP] 'Save' variable not found. Base class was probably changed.
+[2017.04.07-17.27.15:041][133]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.27.15:063][133]LogBlueprint:Warning: [Compiler newStorageBox_BP] Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_1566
+[2017.04.07-17.27.15:064][133]LogBlueprint:Warning: [Compiler newStorageBox_BP] Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_76
+[2017.04.07-17.27.15:065][133]LogBlueprint:Error: [Compiler newStorageBox_BP] Error Could not find a function named "RemoveFromScoreTally" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_CallFunction_355
+[2017.04.07-17.27.15:065][133]LogBlueprint:Error: [Compiler newStorageBox_BP] Error Could not find a function named "AddToScoreTally" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_CallFunction_181
+[2017.04.07-17.27.15:066][133]LogBlueprint:Error: [Compiler newStorageBox_BP] Error The property associated with  PointLight  could not be found
+[2017.04.07-17.27.15:067][133]LogBlueprint:Error: [Compiler newStorageBox_BP] Error The property associated with  PointLight  could not be found
+[2017.04.07-17.27.15:601][133]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_1566
+[2017.04.07-17.27.15:601][133]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_76
+[2017.04.07-17.27.15:601][133]BlueprintEditorCompileResults:Error: Error Could not find a function named "RemoveFromScoreTally" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_CallFunction_355
+[2017.04.07-17.27.15:601][133]BlueprintEditorCompileResults:Error: Error Could not find a function named "AddToScoreTally" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_CallFunction_181
+[2017.04.07-17.27.15:601][133]BlueprintEditorCompileResults:Error: Error The property associated with  PointLight  could not be found
+[2017.04.07-17.27.15:601][133]BlueprintEditorCompileResults:Error: Error The property associated with  PointLight  could not be found
+[2017.04.07-17.27.15:601][133]LogBlueprint:Warning: [Compiler newStorageBox_BP] Warning [1463.84] Compile of newStorageBox_BP failed. 4 Fatal Issue(s) 2 Warning(s) [in 560 ms] (/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_BP)
+[2017.04.07-17.28.52:700][847]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.28.52:725][847]LogBlueprint:Warning: [Compiler newStorageBox_BP] Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_1566
+[2017.04.07-17.28.52:726][847]LogBlueprint:Warning: [Compiler newStorageBox_BP] Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_76
+[2017.04.07-17.28.52:728][847]LogBlueprint:Error: [Compiler newStorageBox_BP] Error The property associated with  PointLight  could not be found
+[2017.04.07-17.28.52:728][847]LogBlueprint:Error: [Compiler newStorageBox_BP] Error The property associated with  PointLight  could not be found
+[2017.04.07-17.28.52:910][847]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_1566
+[2017.04.07-17.28.52:910][847]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "PointLight" in 'newStorageBox_BP_C'.
+Make sure 'newStorageBox_BP_C' has been compiled for  K2Node_VariableGet_76
+[2017.04.07-17.28.52:910][847]BlueprintEditorCompileResults:Error: Error The property associated with  PointLight  could not be found
+[2017.04.07-17.28.52:910][847]BlueprintEditorCompileResults:Error: Error The property associated with  PointLight  could not be found
+[2017.04.07-17.28.52:911][847]LogBlueprint:Warning: [Compiler newStorageBox_BP] Warning [1561.15] Compile of newStorageBox_BP failed. 2 Fatal Issue(s) 2 Warning(s) [in 210 ms] (/Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_BP)
+[2017.04.07-17.28.53:407][871]LogSavePackage: Save=33.80ms
+[2017.04.07-17.28.53:407][871]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_BpF09057A64D2DF55EB6E302A6E3883F9B.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.28.53:411][871]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.29.10:844][851]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.29.11:904][896]LogSavePackage: Save=38.65ms
+[2017.04.07-17.29.11:904][896]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp4A7D6013408346CD7B8FADA8669AB593.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.29.11:907][896]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.29.42:313][129]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.07-17.29.43:467][129]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SKEL_StorageBox_BP_C' or package '/Game/RaptorBlueprints/StorageBox_BP'.
+[2017.04.07-17.29.45:464][129]LogSavePackage: Save=6.93ms
+[2017.04.07-17.29.45:464][129]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP6223C9C949510C9DC06A4C9321556AF2.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.29.45:464][129]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.29.45:964][129]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.29.45:964][129]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.29.45:966][129]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.29.52:837][129]LogSavePackage: Save=6.19ms
+[2017.04.07-17.29.52:837][129]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP34BE670A4B8674C3A06747B215C440B3.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.29.52:837][129]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.29.53:338][129]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.29.53:338][129]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.29.53:339][129]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.29.54:754][129]EditorErrors: New page: Save Output
+[2017.04.07-17.29.54:755][129]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.29.54:755][129]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.31.20:573][ 32]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2017.04.07-17.33.16:868][780]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.33.17:566][783]LogSavePackage: Save=46.83ms
+[2017.04.07-17.33.17:566][783]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp7B82757847DEDEA4DCD5AD9CD2556A10.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.33.17:570][783]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.33.28:987][463]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.33.29:642][485]LogSavePackage: Save=47.48ms
+[2017.04.07-17.33.29:642][485]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_BpE1DCB4B64AF394F3D19ED2A8BA81771F.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.33.29:644][485]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.33.31:461][571]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.33.31:484][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.33.31:484][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.33.31:485][571]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.33.31:485][571]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.33.31:485][571]LogHMD: New ovr session is created
+[2017.04.07-17.33.31:485][571]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.33.31:486][571]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:33:31 AM)
+[2017.04.07-17.33.31:486][571]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.33.31:491][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005464s)
+[2017.04.07-17.33.31:492][571]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.33.31:492][571]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2017.04.07-17.33.31:492][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006369s)
+[2017.04.07-17.33.31:539][571]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.33.31:597][571]LogInit: FAudioDevice initialized.
+[2017.04.07-17.33.31:628][571]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.33.31:632][571]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.33.31
+[2017.04.07-17.33.31:632][571]LogWorld: Bringing up level for play took: 0.001500
+[2017.04.07-17.33.31:636][571]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.788
+[2017.04.07-17.33.31:637][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.33.38:843][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.33.41:684][977]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.33.52:508][362]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.33.52:508][362]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.33.59:607][603]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.33.59:607][603]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.34.03:421][756]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.34.03:421][756]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.34.05:617][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.34.05:637][846]LogHMD: Destroying ovr session
+[2017.04.07-17.34.05:684][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.38.17:542][353]LogSavePackage: Save=118.08ms
+[2017.04.07-17.38.17:542][353]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MotionControllerMap_Auto2D4A34DF54CD811607ADB2A8A974657D7.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2017.04.07-17.38.17:544][353]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap
+[2017.04.07-17.38.17:546][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.182
+[2017.04.07-17.38.17:546][353]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2017.04.07-17.38.17:548][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RaptorBlueprints/StorageBox_BP] ([4] browsable assets)...
+[2017.04.07-17.38.17:548][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/RaptorBlueprints/StorageBox_BP]
+[2017.04.07-17.38.17:580][353]LogSavePackage: Save=6.50ms
+[2017.04.07-17.38.17:580][353]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP_Auto28D3C182E4DE714138035A9861DF4D4CB.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/RaptorBlueprints/StorageBox_BP_Auto2.uasset'
+[2017.04.07-17.38.17:581][353]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/RaptorBlueprints/StorageBox_BP_Auto2.uasset
+[2017.04.07-17.38.17:582][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu/Menu_Widget] ([1] browsable assets)...
+[2017.04.07-17.38.17:582][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/Menu_Widget]
+[2017.04.07-17.38.17:647][353]LogSavePackage: Save=38.63ms
+[2017.04.07-17.38.17:647][353]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Menu_Widget_Auto25675D4DE4634E56520F7FDA30996DDE7.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/Menu/Menu_Widget_Auto2.uasset'
+[2017.04.07-17.38.17:649][353]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/Menu/Menu_Widget_Auto2.uasset
+[2017.04.07-17.38.17:656][353]LogSavePackage: Save=4.83ms
+[2017.04.07-17.38.17:656][353]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Auto2E635159C4B21FB4C56FF09B2A02C62EA.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/RaptorBlueprints/newStorageBox_Auto2.uasset'
+[2017.04.07-17.38.17:658][353]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Autosaves/Game/RaptorBlueprints/newStorageBox_Auto2.uasset
+[2017.04.07-17.38.17:658][353]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.04.07-17.39.26:018][266]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.39.26:039][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.39.26:039][266]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.04.07-17.39.26:039][266]LogPlayLevel: [PlayLevel] Compiling MySaveScore before play...
+[2017.04.07-17.39.26:163][266]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2017.04.07-17.39.26:165][266]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.39.26:165][266]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.39.26:165][266]LogHMD: New ovr session is created
+[2017.04.07-17.39.26:165][266]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.39.26:165][266]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:39:26 AM)
+[2017.04.07-17.39.26:165][266]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.39.26:171][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005474s)
+[2017.04.07-17.39.26:171][266]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.39.26:171][266]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2017.04.07-17.39.26:171][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006186s)
+[2017.04.07-17.39.26:215][266]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.39.26:288][266]LogInit: FAudioDevice initialized.
+[2017.04.07-17.39.26:324][266]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.39.26:327][266]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.39.26
+[2017.04.07-17.39.26:328][266]LogWorld: Bringing up level for play took: 0.001718
+[2017.04.07-17.39.26:331][266]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.093
+[2017.04.07-17.39.26:331][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.39.32:233][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.39.32:877][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.39.33:281][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.39.33:495][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.39.34:493][592]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.39.37:404][705]LogBlueprintUserMessages: [StorageBox_BP_1190] Box
+[2017.04.07-17.39.37:404][705]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.39.47:153][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.39.47:186][ 92]LogHMD: Destroying ovr session
+[2017.04.07-17.39.47:223][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.40.38:446][ 60]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.40.39:066][ 80]LogSavePackage: Save=48.56ms
+[2017.04.07-17.40.39:066][ 80]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_BpDB6C973843FBBB093158D683C833B138.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.40.39:070][ 80]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.40.41:201][155]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.40.41:225][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.40.41:225][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.40.41:226][155]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.40.41:226][155]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.40.41:226][155]LogHMD: New ovr session is created
+[2017.04.07-17.40.41:226][155]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.40.41:226][155]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:40:41 AM)
+[2017.04.07-17.40.41:227][155]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.40.41:232][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005536s)
+[2017.04.07-17.40.41:232][155]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.40.41:232][155]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.04.07-17.40.41:233][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006436s)
+[2017.04.07-17.40.41:277][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.40.41:340][155]LogInit: FAudioDevice initialized.
+[2017.04.07-17.40.41:370][155]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.40.41:373][155]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.40.41
+[2017.04.07-17.40.41:374][155]LogWorld: Bringing up level for play took: 0.001951
+[2017.04.07-17.40.41:379][155]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.955
+[2017.04.07-17.40.41:379][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.40.48:581][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.40.49:287][463]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.40.52:858][589]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.41.04:839][  1]LogBlueprintUserMessages: [StorageBox_BP_1190] 10.0
+[2017.04.07-17.41.06:259][ 44]LogBlueprintUserMessages: [StorageBox_BP_1190] 20.0
+[2017.04.07-17.41.09:631][164]LogBlueprintUserMessages: [StorageBox_BP_1190] 20.0
+[2017.04.07-17.41.14:411][355]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.41.16:311][425]LogBlueprintUserMessages: [StorageBox_BP_1190] 30.0
+[2017.04.07-17.41.16:763][439]LogBlueprintUserMessages: [StorageBox_BP_1190] 30.0
+[2017.04.07-17.41.17:282][455]LogBlueprintUserMessages: [StorageBox_BP_1190] 40.0
+[2017.04.07-17.41.17:684][467]LogBlueprintUserMessages: [StorageBox_BP_1190] 40.0
+[2017.04.07-17.41.18:109][480]LogBlueprintUserMessages: [StorageBox_BP_1190] 50.0
+[2017.04.07-17.41.18:500][492]LogBlueprintUserMessages: [StorageBox_BP_1190] 50.0
+[2017.04.07-17.41.18:928][505]LogBlueprintUserMessages: [StorageBox_BP_1190] 60.0
+[2017.04.07-17.41.19:310][517]LogBlueprintUserMessages: [StorageBox_BP_1190] 60.0
+[2017.04.07-17.41.20:774][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.41.20:811][574]LogHMD: Destroying ovr session
+[2017.04.07-17.41.20:857][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.41.52:874][444]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.41.54:251][509]LogSavePackage: Save=45.43ms
+[2017.04.07-17.41.54:251][509]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp66E16C934494091D94C7E7986399CF97.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.41.54:256][509]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.41.56:277][606]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.41.56:300][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.41.56:300][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.41.56:301][606]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.41.56:301][606]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.41.56:301][606]LogHMD: New ovr session is created
+[2017.04.07-17.41.56:301][606]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.41.56:301][606]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:41:56 AM)
+[2017.04.07-17.41.56:301][606]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.41.56:306][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004994s)
+[2017.04.07-17.41.56:307][606]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.41.56:307][606]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2017.04.07-17.41.56:307][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.005920s)
+[2017.04.07-17.41.56:352][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.41.56:408][606]LogInit: FAudioDevice initialized.
+[2017.04.07-17.41.56:444][606]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.41.56:447][606]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.41.56
+[2017.04.07-17.41.56:447][606]LogWorld: Bringing up level for play took: 0.001493
+[2017.04.07-17.41.56:451][606]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.026
+[2017.04.07-17.41.56:451][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.42.04:779][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.42.05:211][951]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.42.14:720][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.42.14:746][262]LogHMD: Destroying ovr session
+[2017.04.07-17.42.14:788][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.42.48:803][213]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.42.56:279][641]LogSavePackage: Save=48.86ms
+[2017.04.07-17.42.56:279][641]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp0E19049C428564B8D6FA3D9538AF8045.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.42.56:283][641]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.43.29:403][566]LogSavePackage: Save=49.35ms
+[2017.04.07-17.43.29:404][566]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp00FC86F747FB9BA88BBCEF9112CE09C9.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.43.29:408][566]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.43.30:050][604]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.43.32:035][681]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.43.32:058][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.32:059][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.43.32:060][681]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.43.32:060][681]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.43.32:060][681]LogHMD: New ovr session is created
+[2017.04.07-17.43.32:060][681]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.43.32:061][681]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:43:32 AM)
+[2017.04.07-17.43.32:061][681]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.43.32:066][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005396s)
+[2017.04.07-17.43.32:067][681]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.43.32:067][681]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2017.04.07-17.43.32:067][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006635s)
+[2017.04.07-17.43.32:113][681]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.43.32:170][681]LogInit: FAudioDevice initialized.
+[2017.04.07-17.43.32:204][681]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.43.32:207][681]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.43.32
+[2017.04.07-17.43.32:208][681]LogWorld: Bringing up level for play took: 0.001679
+[2017.04.07-17.43.32:211][681]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.214
+[2017.04.07-17.43.32:211][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.38:715][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.43.39:177][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.04.07-17.43.39:970][  9]Cmd: EDCALLBACK SURFPROPS
+[2017.04.07-17.43.41:113][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.43.49:516][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.49:588][352]LogHMD: Destroying ovr session
+[2017.04.07-17.43.49:633][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.50:777][415]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.43.50:800][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.50:800][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.43.50:801][415]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.43.50:801][415]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.43.50:801][415]LogHMD: New ovr session is created
+[2017.04.07-17.43.50:801][415]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.43.50:801][415]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:43:50 AM)
+[2017.04.07-17.43.50:801][415]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.43.50:806][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004748s)
+[2017.04.07-17.43.50:807][415]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.43.50:807][415]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2017.04.07-17.43.50:807][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.005493s)
+[2017.04.07-17.43.50:849][415]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.43.50:905][415]LogInit: FAudioDevice initialized.
+[2017.04.07-17.43.50:937][415]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.43.50:941][415]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.43.50
+[2017.04.07-17.43.50:941][415]LogWorld: Bringing up level for play took: 0.001734
+[2017.04.07-17.43.50:945][415]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.52
+[2017.04.07-17.43.50:945][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.53:474][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.43.53:475][542]LogHMD: Destroying ovr session
+[2017.04.07-17.43.53:517][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.45.43:596][ 69]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.45.44:159][ 86]LogSavePackage: Save=48.72ms
+[2017.04.07-17.45.44:159][ 86]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_BpC7DAC8584DF8221536899D906219340A.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.45.44:164][ 86]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.45.46:049][170]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.45.46:071][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.45.46:071][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.45.46:072][170]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.45.46:072][170]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.45.46:072][170]LogHMD: New ovr session is created
+[2017.04.07-17.45.46:073][170]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.45.46:073][170]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:45:46 AM)
+[2017.04.07-17.45.46:073][170]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.45.46:079][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006106s)
+[2017.04.07-17.45.46:080][170]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.45.46:080][170]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2017.04.07-17.45.46:080][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007187s)
+[2017.04.07-17.45.46:124][170]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.45.46:180][170]LogInit: FAudioDevice initialized.
+[2017.04.07-17.45.46:212][170]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.45.46:215][170]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.45.46
+[2017.04.07-17.45.46:215][170]LogWorld: Bringing up level for play took: 0.001819
+[2017.04.07-17.45.46:220][170]LogScript:Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Save_Score
+	newStorageBox_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.StorageBox_BP_1190
+	Function /Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_BP_C:ExecuteUbergraph_newStorageBox_BP:00F8
+[2017.04.07-17.45.46:220][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMy_Save_Score from function: 'ExecuteUbergraph_newStorageBox_BP' from node: Set Pointage in graph: EventGraph in object: newStorageBox_BP with description: Accessed None trying to read property K2Node_DynamicCast_AsMy_Save_Score
+[2017.04.07-17.45.46:220][170]LogScript:Warning: Attempted to assign to None
+	newStorageBox_BP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.StorageBox_BP_1190
+	Function /Game/RaptorBlueprints/newStorageBox_Bp.newStorageBox_BP_C:ExecuteUbergraph_newStorageBox_BP:010D
+[2017.04.07-17.45.46:220][170]PIE:Error: Error Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_newStorageBox_BP' from node: Set Pointage in graph: EventGraph in object: newStorageBox_BP with description: Attempted to assign to None
+[2017.04.07-17.45.46:220][170]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.204
+[2017.04.07-17.45.46:220][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.45.48:353][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.45.48:354][279]LogHMD: Destroying ovr session
+[2017.04.07-17.45.48:398][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.47.59:001][853]BlueprintLog: New page: Compile newStorageBox_BP
+[2017.04.07-17.47.59:747][880]LogSavePackage: Save=57.73ms
+[2017.04.07-17.47.59:748][880]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp1F6BFE414A89EEB1E78E4AA32E6CC113.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.47.59:750][880]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.48.01:486][955]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.48.01:508][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.01:508][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.48.01:509][955]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.48.01:509][955]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.48.01:509][955]LogHMD: New ovr session is created
+[2017.04.07-17.48.01:510][955]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.48.01:510][955]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:48:01 AM)
+[2017.04.07-17.48.01:510][955]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.48.01:516][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005768s)
+[2017.04.07-17.48.01:516][955]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.48.01:516][955]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2017.04.07-17.48.01:517][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006707s)
+[2017.04.07-17.48.01:563][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.48.01:617][955]LogInit: FAudioDevice initialized.
+[2017.04.07-17.48.01:650][955]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.48.01:654][955]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.48.01
+[2017.04.07-17.48.01:654][955]LogWorld: Bringing up level for play took: 0.001784
+[2017.04.07-17.48.01:660][955]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.765
+[2017.04.07-17.48.01:660][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.08:077][224]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2017.04.07-17.48.13:552][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.13:586][421]LogHMD: Destroying ovr session
+[2017.04.07-17.48.13:634][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.14:565][472]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.07-17.48.14:589][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.14:589][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.07-17.48.14:590][472]OCULUS: Debug: [HMDState] Using default profile default
+[2017.04.07-17.48.14:590][472]OCULUS: Info: IAD changed to 59.0mm
+[2017.04.07-17.48.14:590][472]LogHMD: New ovr session is created
+[2017.04.07-17.48.14:590][472]LogHMD: HMD Oculus Rift CV1, res = 2160 x 1200
+[2017.04.07-17.48.14:591][472]PIE: New page: PIE session: MotionControllerMap (Apr 7, 2017, 9:48:14 AM)
+[2017.04.07-17.48.14:591][472]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.04.07-17.48.14:596][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005476s)
+[2017.04.07-17.48.14:597][472]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.04.07-17.48.14:597][472]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2017.04.07-17.48.14:597][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006331s)
+[2017.04.07-17.48.14:641][472]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.04.07-17.48.14:693][472]LogInit: FAudioDevice initialized.
+[2017.04.07-17.48.14:728][472]LogLoad: Game class is 'VR_GameMode_Menu_BP_C'
+[2017.04.07-17.48.14:732][472]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.04.07-13.48.14
+[2017.04.07-17.48.14:732][472]LogWorld: Bringing up level for play took: 0.001596
+[2017.04.07-17.48.14:738][472]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.314
+[2017.04.07-17.48.14:738][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.16:021][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.16:023][536]LogHMD: Destroying ovr session
+[2017.04.07-17.48.16:070][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.04.07-17.48.21:114][792]LogSavePackage: Save=41.25ms
+[2017.04.07-17.48.21:114][792]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox_Bp168C3D0446A55E3A475AA6B0FDC01890.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset'
+[2017.04.07-17.48.21:116][792]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox_Bp.uasset
+[2017.04.07-17.48.29:850][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Widget" FILE="C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Menu/Menu_Widget.uasset" SILENT=true
+[2017.04.07-17.48.29:914][148]LogSavePackage: Save=38.99ms
+[2017.04.07-17.48.29:914][148]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Menu_Widget69E55A124EA9414CC0CAB2B5A7978EE6.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Menu/Menu_Widget.uasset'
+[2017.04.07-17.48.29:923][148]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Menu/Menu_Widget.uasset
+[2017.04.07-17.48.29:933][148]LogSavePackage: Save=4.26ms
+[2017.04.07-17.48.29:933][148]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/newStorageBox1A3F5F54442A92BE303599A82F786533.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox.uasset'
+[2017.04.07-17.48.29:940][148]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/newStorageBox.uasset
+[2017.04.07-17.48.29:980][148]LogSavePackage: Save=5.99ms
+[2017.04.07-17.48.29:980][148]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BPFF4BECCE4D5CFE6C1F7DA89132C15D91.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.48.29:980][148]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.48.30:480][148]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.48.30:480][148]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.48.30:482][148]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.48.36:637][148]LogSavePackage: Save=8.29ms
+[2017.04.07-17.48.36:637][148]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MySaveScoreCEF0FB314F1E4C7FC110FC86A8954D66.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Spawn_BP/MySaveScore.uasset'
+[2017.04.07-17.48.36:640][148]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Spawn_BP/MySaveScore.uasset
+[2017.04.07-17.48.36:843][148]LogSavePackage: Save=114.67ms
+[2017.04.07-17.48.36:844][148]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/MotionControllerMapCE70BE3643D6A8554E3432BDEFDBB194.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.04.07-17.48.36:851][148]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.04.07-17.48.36:884][148]LogFileHelpers: Saving map 'MotionControllerMap' took 0.241
+[2017.04.07-17.48.36:889][148]EditorErrors: New page: Save Output
+[2017.04.07-17.48.36:889][148]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.49.48:912][ 51]LogSavePackage: Save=4.97ms
+[2017.04.07-17.49.48:912][ 51]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP9B32853A421C1517914BD4A34CBD3790.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.49.48:913][ 51]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.49.49:413][ 51]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.49.49:413][ 51]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.49.49:415][ 51]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.49.55:659][ 51]EditorErrors: New page: Save Output
+[2017.04.07-17.49.55:659][ 51]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.50.24:038][628]LogSavePackage: Save=5.66ms
+[2017.04.07-17.50.24:038][628]LogSavePackage: Moving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/StorageBox_BP3004812A42AF82B78CC4C094294F992A.tmp' to 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.50.24:038][628]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset', retrying in .5s...
+[2017.04.07-17.50.24:539][628]LogFileManager:Error: Error deleting file 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'.
+[2017.04.07-17.50.24:539][628]LogSavePackage:Error: Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.50.24:541][628]LogSavePackage:Display: Finished SavePackage C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset
+[2017.04.07-17.50.25:922][628]EditorErrors: New page: Save Output
+[2017.04.07-17.50.25:922][628]EditorErrors:Warning: Warning Error saving 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/RaptorBlueprints/StorageBox_BP.uasset'
+[2017.04.07-17.51.52:818][906]Cmd: QUIT_EDITOR
+[2017.04.07-17.51.53:206][906]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.07-17.51.53:233][906]LogExit: Preparing to exit.
+[2017.04.07-17.51.54:166][906]LogExit: Editor shut down
+[2017.04.07-17.51.54:167][906]LogExit: Transaction tracking system shut down
+[2017.04.07-17.51.54:295][906]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.07-17.51.54:295][906]LogExit: Object subsystem successfully closed.
+[2017.04.07-17.51.54:315][906]LogD3D11RHI: Shutdown
+[2017.04.07-17.51.54:315][906]LogD3D11RHI: CleanupD3DDevice
+[2017.04.07-17.51.54:503][906]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.07-17.51.54:513][906]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.07-17.51.54:513][906]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46B35A11-484C-C6EB-E6CC-F5AB21F9AF78%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=e6485dbe41cd0fa49185cb99c9272ca3%7Cb73e36dadf2f4cfcadd2446abc09770e%7C6242ca4d-b3b1-47d7-a544-e0ba27d6e52c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.07-17.51.54:536][906]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (247)
+[2017.04.07-17.51.54:536][906]LogModuleManager: Shutting down and abandoning module SequencerWidgets (246)
+[2017.04.07-17.51.54:536][906]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
+[2017.04.07-17.51.54:536][906]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
+[2017.04.07-17.51.54:537][906]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (243)
+[2017.04.07-17.51.54:537][906]LogModuleManager: Shutting down and abandoning module CrashTracker (242)
+[2017.04.07-17.51.54:537][906]LogModuleManager: Shutting down and abandoning module SceneOutliner (241)
+[2017.04.07-17.51.54:537][906]LogModuleManager: Shutting down and abandoning module WidgetCarousel (240)
+[2017.04.07-17.51.54:537][906]LogModuleManager: Shutting down and abandoning module AddContentDialog (239)
+[2017.04.07-17.51.54:537][906]LogDirectoryWatcher: A directory notification for 'D:/Software/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module GameplayTags (238)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module EditorWidgets (237)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module CollectionManager (236)
+[2017.04.07-17.51.54:539][906]LogDirectoryWatcher: A directory notification for 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Collections/' was aborted.
+[2017.04.07-17.51.54:539][906]LogDirectoryWatcher: A directory notification for 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/Developers/maske/Collections/' was aborted.
+[2017.04.07-17.51.54:539][906]LogDirectoryWatcher: A directory notification for 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Saved/Collections/' was aborted.
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module StatsViewer (235)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module FoliageEdit (234)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module LandscapeEditor (233)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (232)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module ActorPickerMode (231)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module GeometryMode (230)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module TextureAlignMode (229)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module BspMode (228)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module HardwareSurvey (227)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (226)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module AutomationWorker (225)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (224)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module PlacementMode (223)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (222)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (221)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (220)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (219)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (218)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (216)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (215)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module CharacterAI (214)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module SequenceRecorder (213)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module AudioCapture (212)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module SmartSnapping (211)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module SessionServices (210)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module ViewportSnapping (209)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module ViewportInteraction (208)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module LogVisualizer (207)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (206)
+[2017.04.07-17.51.54:539][906]LogModuleManager: Shutting down and abandoning module IntroTutorials (205)
+[2017.04.07-17.51.54:540][906]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (204)
+[2017.04.07-17.51.54:540][906]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (203)
+[2017.04.07-17.51.54:540][906]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (202)
+[2017.04.07-17.51.54:540][906]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (201)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (200)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (199)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (198)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module InputBindingEditor (197)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module NiagaraEditor (196)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module MergeActors (195)
+[2017.04.07-17.51.55:378][906]LogModuleManager: Shutting down and abandoning module SizeMap (194)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module TreeMap (193)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module ReferenceViewer (192)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module LocalizationService (191)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (190)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module HardwareTargeting (189)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (188)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module UndoHistory (187)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module UserFeedback (186)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module XmlParser (185)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module Blutility (184)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (183)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (182)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (181)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module SettingsEditor (180)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module ProjectLauncher (179)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module SessionFrontend (178)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module ProfilerClient (177)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (176)
+[2017.04.07-17.51.55:379][906]LogModuleManager: Shutting down and abandoning module DeviceManager (175)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module AutomationController (174)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module AutomationWindow (173)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module Layers (172)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (171)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module DetailCustomizations (170)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module PackagesDialog (169)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module AnimGraph (168)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module Persona (167)
+[2017.04.07-17.51.55:422][906]LogModuleManager: Shutting down and abandoning module Kismet (166)
+[2017.04.07-17.51.55:431][906]LogModuleManager: Shutting down and abandoning module GraphEditor (165)
+[2017.04.07-17.51.55:432][906]LogModuleManager: Shutting down and abandoning module ClassViewer (164)
+[2017.04.07-17.51.55:432][906]LogModuleManager: Shutting down and abandoning module Toolbox (163)
+[2017.04.07-17.51.55:432][906]LogModuleManager: Shutting down and abandoning module ModuleUI (162)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module MovieSceneTools (161)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module OutputLog (160)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module GammaUI (159)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module Documentation (158)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module Niagara (157)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (156)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module AnalyticsET (155)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module PortalServices (154)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module PortalRpc (153)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module MessagingRpc (152)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module GameplayDebugger (151)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module AITestSuite (150)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module AIModule (149)
+[2017.04.07-17.51.55:433][906]LogModuleManager: Shutting down and abandoning module ProfilerService (148)
+[2017.04.07-17.51.55:637][906]LogModuleManager: Shutting down and abandoning module TaskGraph (147)
+[2017.04.07-17.51.55:637][906]LogModuleManager: Shutting down and abandoning module SubstanceEditor (146)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module SourceControl (116)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module HotReload (109)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module MainFrame (108)
+[2017.04.07-17.51.55:638][906]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
+[2017.04.07-17.51.55:639][906]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
+[2017.04.07-17.51.55:640][906]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
+[2017.04.07-17.51.55:641][906]LogModuleManager: Shutting down and abandoning module UdpMessaging (104)
+[2017.04.07-17.51.55:741][906]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module SubstanceCore (102)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.07-17.51.55:842][906]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.07-17.51.55:843][906]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.07-17.51.55:843][906]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.07-17.51.55:845][906]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.07-17.51.55:845][906]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.07-17.51.55:845][906]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.07-17.51.55:845][906]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.07-17.51.55:845][906]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.07-17.51.55:845][906]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.07-17.51.55:845][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.07-17.51.55:845][906]LogDirectoryWatcher: A directory notification for 'C:/Users/maske/OneDrive/Documents/Unreal Projects/OfficialProjectRaptor/ProjectRaptor/ProjectRaptor/Content/' was aborted.
+[2017.04.07-17.51.55:845][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.07-17.51.55:846][906]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.07-17.51.56:018][906]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.07-17.51.56:043][906]LogDerivedDataCache: Shutdown
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.07-17.51.56:044][906]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.07-17.51.56:045][906]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.07-17.51.56:045][906]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.07-17.51.56:045][906]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.07-17.51.56:047][906]LogHMD: Oculus shutdown.
+[2017.04.07-17.51.56:047][906]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.07-17.51.56:047][906]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.07-17.51.56:047][906]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.07-17.51.56:047][906]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.07-17.51.56:047][906]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.07-17.51.56:049][906]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.07-17.51.56:049][906]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.07-17.51.56:050][906]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.07-17.51.56:050][906]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.07-17.51.56:050][906]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.07-17.51.56:050][906]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.07-17.51.56:054][906]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.07-17.51.56:058][906]LogExit: Exiting.
+[2017.04.07-17.51.56:066][906]Log file closed, 04/07/17 13:51:56
